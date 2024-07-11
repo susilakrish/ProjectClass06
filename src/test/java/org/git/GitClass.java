@@ -12,4 +12,17 @@ public class GitClass {
 		private void method3() {
 			System.out.println("3");
 		}
+		
+		private void methodA() {
+			System.out.println("Git");
+		}
+		
+		private void methodB() {
+			System.out.println("Clone");
+		}
+		
+		private void methodC() {
+			System.out.println("Checkout");
+
+		}
 }
